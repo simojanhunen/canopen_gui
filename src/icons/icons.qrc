@@ -1,0 +1,50 @@
+<RCC>
+  <qresource prefix="/">
+    <file>refresh.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>folder_opened.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>folder_closed.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>info.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>online.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>menu.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>settings.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>logo24.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>logo32.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>logo48.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>logo96.png</file>
+  </qresource>
+
+  <qresource prefix="/">
+    <file>exit.png</file>
+  </qresource>
+
+</RCC>
