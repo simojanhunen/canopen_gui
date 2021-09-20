@@ -1,6 +1,6 @@
 # CANopen GUI
 
-![Help](https://github.com/simojanhunen/canopen_gui/docs/help.png?raw=true)
+![Help](https://github.com/simojanhunen/canopen_gui/blob/master/docs/help.png?raw=true)
 
 # Usage
 
